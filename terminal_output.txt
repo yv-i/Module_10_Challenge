@@ -1,0 +1,50 @@
+  473  prof
+  474  rc
+  475  rc
+  476  rc
+  477  rc
+  478  rc
+  479  rc
+  480  rc
+  481  rc
+  482  rc
+  483  rc
+  484  prof
+  485  rc
+  486  rc
+  487  doodoo
+  488  rc
+  489  rc
+  490  pingsc
+  491  rc
+  492  pingsc
+  493  rc
+  494  pingsc
+  495  source .bashrc
+  496  pingsc
+  497  alias
+  498  cd Dropbox/
+  499  mkdir .bash_profile
+  500  mdfind ishan
+  501  cd
+  502  cd Desktop/
+  503  git clone https://github.com/yv-i/Module_10_Challenge.git
+  504  open Module_10_Challenge/
+  505  git add .
+  506  git commit -m 'first commit'
+  507  cd /Users/jknight/Dropbox/Python/UCB-VIRT-FIN-PT-03-2023-U-B/10-Unsupervised-Learning/Module_10_Challenge 
+  508  git add .
+  509  git commit -m 'first commit'
+  510    git config --global user.email "you@example.com"
+  511    git config --global user.email "joseph.knight91@gmail.com"
+  512  git config --global user.name "yv-i"
+  513  git commit -m 'first commit'
+  514  git push
+  515  conda activate dev
+  516  pip install jupyter
+  517  pip install watermark
+  518  clear
+  519  conda list
+  520  conda list | grep jupyter
+  521  touch terminal_output.txt
+  522  history 50 > terminal_output.txt 
